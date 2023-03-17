@@ -1,0 +1,57 @@
+.facebook-user{
+    color: black;
+    margin-left: 20px;
+    border-radius: 30px;
+    padding-top: 1px;
+    padding-bottom: 20px;
+  }
+  
+  .btnFacebook {
+    background-color: #4267b2;
+    border-radius: 5px;
+    box-shadow: rgba(169, 219, 241, 0.2) 0 -25px 18px -14px inset;
+    color:white;
+    cursor: pointer;
+    display: inline-block;
+    font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
+    padding: 12px 28px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 250ms;
+    border: 0;
+    font-size: 16px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    position: absolute;
+    left: 48%;
+    top: 44%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .btnFacebook:hover {
+    box-shadow: #294ba0 0 -25px 18px -14px inset
+  }
+  
+  .logOut {
+    background-color: #4267b2;
+    border-radius: 5px;
+    box-shadow: rgba(169, 219, 241, 0.2) 0 -25px 18px -14px inset;
+    color: white;
+    cursor: pointer;
+    display: inline-block;
+    font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
+    padding: 12px 28px;
+    text-decoration: none;
+    transition: all 250ms;
+    border: 0;
+    font-size: 16px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    margin-top: 20px;
+  }
+  
+  .logOut:hover {
+    box-shadow: rgba(122, 197, 230, 0.548) 0 -25px 18px -14px inset
+  }

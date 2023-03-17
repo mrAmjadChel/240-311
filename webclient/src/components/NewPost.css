@@ -1,0 +1,38 @@
+form{
+    width: 50%;
+    margin: auto;
+    margin-top:20px;
+    text-align: center;
+}
+
+label{
+    font-family: Roboto,sans-serif;
+    display: inline-block;
+    margin: 10px 0;
+    font-size: 1.50rem;
+    margin-bottom: 20px;
+}
+input{
+    border: 1px solid #dedede;
+    border-radius: 5px;
+    display: block;
+    font-size: 16px;
+    padding: 10px;
+    width: 100%;
+}
+
+
+.btn {
+  align-self: center;
+  background-color: #1b74e4;
+  color:white;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
+  padding: 5px 20px 5px 20px;
+  margin-top:20px;
+}
+
+.btn:hover {
+  box-shadow: rgba(86, 146, 224, 0.486) 2px 8px 8px -5px;
+}
